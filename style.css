@@ -1,0 +1,245 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* FOOTER */
+
+.footer{
+  width:100%;
+  background:#6b102d;
+  color:white;
+  text-align:center;
+  padding:22px 10px;
+  margin-top:80px;
+  font-size:20px;
+  font-weight:500;
+}
+
+body{
+  background:#f4d7a8;
+  min-height:100vh;
+  overflow-x:hidden;
+}
+
+/* BARRA */
+
+header{
+  width:100%;
+  background:#d83d73;
+  padding:18px 40px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  position:relative;
+  box-shadow:0 2px 5px rgba(0,0,0,0.15);
+}
+
+.logo{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  color:white;
+  font-size:28px;
+  font-weight:bold;
+}
+
+.logo-img{
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  object-fit:cover;
+  border:2px solid white;
+}
+
+nav{
+  display:flex;
+  align-items:center;
+  gap:40px;
+}
+
+nav a{
+  color:white;
+  text-decoration:none;
+  font-size:20px;
+  font-weight:600;
+  transition:0.3s;
+}
+
+nav a:hover{
+  opacity:0.8;
+}
+
+.menu-icon{
+  font-size:28px;
+  color:white;
+  cursor:pointer;
+}
+
+/* LINHA CURVA */
+
+.curve{
+  width:100%;
+  height:40px;
+  border-top:5px solid #d13a58;
+  border-radius:0 0 50% 50%;
+  margin-top:-5px;
+}
+
+
+
+.hero{
+  width:100%;
+  min-height:70vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position:relative;
+  padding-top:40px;
+}
+
+/* CARDS AZUIS */
+
+.bg-card{
+  position:absolute;
+  border-radius:20px;
+  height:320px;
+}
+
+.card-left{
+  width:320px;
+  background:#07267a;
+  left:10%;
+  z-index:1;
+}
+
+.card-middle-left{
+  width:380px;
+  background:#1f3ea7;
+  left:22%;
+  z-index:2;
+}
+
+.card-center{
+  width:380px;
+  background:#1f49c8;
+  z-index:3;
+}
+
+.card-middle-right{
+  width:380px;
+  background:#1f3ea7;
+  right:22%;
+  z-index:2;
+}
+
+.card-right{
+  width:320px;
+  background:#07267a;
+  right:10%;
+  z-index:1;
+}
+
+
+
+.content-card{
+  position:relative;
+  z-index:10;
+  background:#f5f5f5;
+  width:520px;
+  padding:45px 35px;
+  border-radius:18px;
+  text-align:left;
+  box-shadow:0 8px 20px rgba(0,0,0,0.2);
+}
+
+.content-card h1{
+  font-size:48px;
+  line-height:1.2;
+  color:#222;
+  margin-bottom:30px;
+}
+
+.btn{
+  display:block;
+  margin:auto;
+  padding:14px 40px;
+  border:none;
+  background:#cfcfcf;
+  border-radius:10px;
+  font-size:24px;
+  cursor:pointer;
+  transition:0.3s;
+}
+
+.btn:hover{
+  background:#b8b8b8;
+  transform:scale(1.03);
+}
+
+
+.description{
+  text-align:center;
+  margin-top:50px;
+  padding-bottom:60px;
+  color:#222;
+}
+
+.description h2{
+  font-size:32px;
+  margin-bottom:15px;
+}
+
+.description p{
+  font-size:20px;
+  width:70%;
+  margin:auto;
+  line-height:1.6;
+}
+
+
+@media(max-width:1100px){
+
+  .bg-card{
+    display:none;
+  }
+
+  .content-card{
+    width:90%;
+  }
+
+  .content-card h1{
+    font-size:38px;
+  }
+
+  nav{
+    gap:20px;
+  }
+}
+
+@media(max-width:768px){
+
+  header{
+    flex-direction:column;
+    gap:20px;
+  }
+
+  nav{
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+
+  .content-card h1{
+    font-size:30px;
+  }
+
+  .btn{
+    font-size:20px;
+  }
+
+  .description p{
+    width:90%;
+  }
+}
