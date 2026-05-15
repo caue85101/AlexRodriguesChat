@@ -59,7 +59,7 @@ https://caue85101.github.io/Trabalho-do-ChatBot
 | Antônio | Design | https://github.com/totonhor |
 | Isadora | Github | https://github.com/isadora-fr |
 | Emanuel | Design | https://github.com/emankile123545 |
-| Carlos | Github |????? |
+| Carlos | Github | https://github.com/CarlosWA1 |
 | Marjorie | Front-end | https://github.com/Marjoriects |
 
 ---
