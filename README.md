@@ -1,6 +1,79 @@
-# Alex Rodrigues
+# 🧠 Alex Rodrigues — Seu ChatBot para Filosofia e Sociologia
+![Status](https://img.shields.io/badge/status-ativo-brightgreen)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Typebot](https://img.shields.io/badge/Chatbot-Typebot-8B5CF6)
 
-A Pen created on CodePen.
+---
 
-Original URL: [https://codepen.io/qvpidcig-the-scripter/pen/raWWLNx](https://codepen.io/qvpidcig-the-scripter/pen/raWWLNx).
+## 📌 Descrição
+O projeto "Alex Rodrigues" é uma landing page desenvolvida para apresentar e dar acesso a um chatbot educacional voltado para estudantes de Filosofia e Sociologia.  
+Seu objetivo é facilitar o aprendizado dessas disciplinas por meio de uma interação simples, rápida e acessível.  
+A página centraliza o acesso ao assistente virtual, permitindo que o usuário tire dúvidas e explore conteúdos de forma dinâmica.
+
+---
+
+## 🚀 Funcionalidades
+- Apresentação visual do chatbot com identidade própria  
+- Botão de acesso direto ao assistente virtual  
+- Integração do chatbot via iframe  
+- Layout responsivo (compatível com celular e desktop)  
+- Navegação simples e intuitiva  
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+| Tecnologia | Finalidade |
+|---|---|
+| HTML5 | Estrutura da página |
+| CSS3 | Estilização e responsividade |
+| JavaScript | Interatividade |
+| Typebot | Criação do chatbot |
+| GitHub Pages | Hospedagem do site |
+
+---
+
+## 🌐 Como Acessar
+*Landing Page:*  
+(https://caue85101.github.io/AlexRodriguesChat/)
+
+---
+
+## 📸 Capturas de Tela
+
+### 💻 Versão Desktop
+(anexado nos arquivos)
+
+### 📱 Versão Mobile
+(anexado nos arquivos)
+
+---
+
+## 👥 Equipe
+| Integrante | Função | GitHub |
+|---|---|---|
+| Cauê |  Front-end | https://github.com/caue85101 |
+| Marjorie | Design | https://github.com/Marjoriects |
+| Isadora |  Front-end | https://github.com/isadora-fr |
+| Antônio | Github | https://github.com/totonhor |
+| Emanuel | Github | https://github.com/emankile123545 |
+| Carlos | Design | https://github.com/CarlosWA1  |
+
+
+---
+
+## 🔗 Integração com o Chatbot
+O chatbot "Alex Rodrigues" foi integrado à landing page por meio de um *iframe*, permitindo que o usuário interaja diretamente com o assistente sem sair do site.  
+
+O sistema é carregado externamente através da plataforma Typebot, garantindo funcionamento em tempo real e sem necessidade de instalação.
+
+
+---
+
+## 💡 Desafios e Aprendizados
+Durante o desenvolvimento do projeto, foram enfrentados desafios relacionados à integração do chatbot e à criação de um layout responsivo.  
+A experiência contribuiu para o aprimoramento das habilidades em HTML, CSS e organização de projetos no GitHub, além de reforçar a importância da documentação.
+
+## 🌐 Original URL:
+[https://codepen.io/qvpidcig-the-scripter/pen/raWWLNx](https://codepen.io/qvpidcig-the-scripter/pen/raWWLNx).
 
