@@ -45,19 +45,22 @@ https://caue85101.github.io/Trabalho-do-ChatBot
 ## 📸 Capturas de Tela
 
 ### 💻 Versão Desktop
-![Desktop](./assets/desktop.png)
+(arquivos anexados)
 
 ### 📱 Versão Mobile
-![Mobile](./assets/mobile.png)
+(arquivos anexados)
 
 ---
 
 ## 👥 Equipe
 | Integrante | Função | GitHub |
 |---|---|---|
-| Cauê | Desenvolvedor Front-end | https://github.com/caue85101 |
-
-(Adiciona o resto da equipe se tiver)
+| Cauê | Front-end | https://github.com/caue85101 |
+| Antônio | Design | https://github.com/caue85101 |
+| Isadora | Github | https://github.com/caue85101 |
+| Emanuel | Design | https://github.com/caue85101 |
+| Carlos | Github | https://github.com/caue85101 |
+| Marjorie | Front-end | https://github.com/caue85101 |
 
 ---
 
@@ -67,7 +70,7 @@ O chatbot "Alex Rodrigues" foi integrado à landing page por meio de um *iframe*
 O sistema é carregado externamente através da plataforma Typebot, garantindo funcionamento em tempo real e sem necessidade de instalação.
 
 *Chatbot desenvolvido por:*  
-(coloca aqui o link do repositório do 2º ano)
+(Turma do 2ºano B de filosofia e sociologia)
 
 ---
 
