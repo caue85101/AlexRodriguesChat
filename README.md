@@ -56,11 +56,11 @@ https://caue85101.github.io/Trabalho-do-ChatBot
 | Integrante | Função | GitHub |
 |---|---|---|
 | Cauê | Front-end | https://github.com/caue85101 |
-| Antônio | Design | https://github.com/caue85101 |
-| Isadora | Github | https://github.com/caue85101 |
-| Emanuel | Design | https://github.com/caue85101 |
-| Carlos | Github | https://github.com/caue85101 |
-| Marjorie | Front-end | https://github.com/caue85101 |
+| Antônio | Design | https://github.com/totonhor |
+| Isadora | Github | https://github.com/isadora-fr |
+| Emanuel | Design | https://github.com/emankile123545 |
+| Carlos | Github |????? |
+| Marjorie | Front-end | https://github.com/Marjoriects |
 
 ---
 
